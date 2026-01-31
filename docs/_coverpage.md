@@ -8,6 +8,7 @@
 
 > Open Java learning materials built collaboratively by the Gosling Java Study Group. <!-- TODO: Replace with your description -->
 
+[Mulai Belajar](#gosling-java-study)
 
 ---
 
