@@ -19,7 +19,7 @@
 - 🤝 **Community-driven** — learn Git & PRs while studying Java
 
 
-[📚 Start Learning](#/README)
+[📚 Start Learning](#what-youll-learn)
 [🤝 Contribute](https://github.com/Gosling-Java-Study/Java-Materials/blob/main/CONTRIBUTING.md)
 
 <!-- TODO: Set your background color or image. -->
