@@ -10,7 +10,6 @@
 
 [Mulai Belajar](#gosling-java-study)
 
----
 
 ### 📘 What you'll find here
 
@@ -19,11 +18,9 @@
 - 🧩 **Best practices** — clean code, patterns
 - 🤝 **Community-driven** — learn Git & PRs while studying Java
 
----
 
 [📚 Start Learning](#/README)
 [🤝 Contribute](https://github.com/Gosling-Java-Study/Java-Materials/blob/main/CONTRIBUTING.md)
 
-![color](#2c3e50)
 <!-- TODO: Set your background color or image. -->
-<!-- ![color](#b3d9f8) -->
+![color](#b3d9f8)
