@@ -1,24 +1,28 @@
 <h1 id="cover-heading">
-  DocsifyJS Template  <!-- TODO: Update title -->
+  Gosling Java Study  <!-- TODO: Update title -->
 </h1>
 
-[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
+[![GitHub tag](https://img.shields.io/github/v/tag/Gosling-Java-Study/Java-Materials?cacheSeconds=0)](https://github.com/Gosling-Java-Study/Java-Materials/tags)
 
->  Starter template for a Markdown-based docs site <!-- TODO: Replace with your description -->
+ <!-- TODO: Update username and repo name -->
 
-
-<!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
-
-- :hourglass_flowing_sand: Quickly set up an elegant, responsive site
-- :open_file_folder: Use your markdown docs as content
-- :sparkles: No compilation step and no templating syntax to learn
-- :nut_and_bolt: Built on [DocsifyJS](https://docsify.js.org/)
-- :pushpin: The library loads in the browser - no local dependencies
-- :cloud: Serve locally and on GitHub Pages or Netlify
+> Open Java learning materials built collaboratively by the Gosling Java Study Group. <!-- TODO: Replace with your description -->
 
 
-[Use this template](https://github.com/MichaelCurrin/docsify-js-template/generate) <!-- TODO: Remove on your copy of this template.-->
-[Get Started](#docsifyjs-template) <!-- TODO: Use ID of your homepage heading -->
+---
 
+### 📘 What you'll find here
+
+- ☕ **Java fundamentals** — syntax, OOP, collections
+- 🧠 **How Java works** — JVM, memory, compilation
+- 🧩 **Best practices** — clean code, patterns
+- 🤝 **Community-driven** — learn Git & PRs while studying Java
+
+---
+
+[📚 Start Learning](#/README)
+[🤝 Contribute](https://github.com/Gosling-Java-Study/Java-Materials/blob/main/CONTRIBUTING.md)
+
+![color](#2c3e50)
 <!-- TODO: Set your background color or image. -->
-![color](#b3d9f8)
+<!-- ![color](#b3d9f8) -->
