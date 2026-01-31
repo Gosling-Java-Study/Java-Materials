@@ -1,0 +1,25 @@
+name: Validate Branch Name
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  check-branch-name:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check branch name
+        run: |
+          BRANCH_NAME="${{ github.head_ref }}"
+          echo "Branch: $BRANCH_NAME"
+
+          if [[ ! "$BRANCH_NAME" =~ ^(feature|docs|fix)/[a-z0-9-]+$ ]]; then
+            echo "❌ Invalid branch name!"
+            echo "Allowed patterns:"
+            echo "  feature/<topic>"
+            echo "  docs/<change>"
+            echo "  fix/<issue>"
+            exit 1
+          fi
+
+          echo "✅ Branch name is valid"
