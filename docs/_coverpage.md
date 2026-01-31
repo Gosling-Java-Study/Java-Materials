@@ -1,16 +1,29 @@
 <h1 id="cover-heading">
-  ☕ Gosling Java Study
+  Gosling Java Study  <!-- TODO: Update title -->
 </h1>
-[![GitHub Org](https://img.shields.io/badge/GitHub-Gosling%20Java%20Study-6e4a7c?style=flat&logo=github&logoColor=white)](https://github.com/GoslingJavaStudy)
 
-> 📚 Koleksi materi pembelajaran Java — dari dasar hingga mahir
+[![GitHub tag](https://img.shields.io/github/v/tag/Gosling-Java-Study/Java-Materials?cacheSeconds=0)](https://github.com/Gosling-Java-Study/Java-Materials/tags)
 
-- ☕ Materi Java terstruktur dan mudah dipahami
-- 📖 Semua konten dalam format Markdown yang ringan
-- ⚡ Tanpa langkah kompilasi — baca langsung di browser
-- 🛠️ Powered by [DocsifyJS](https://docsify.js.org/)
-- 🌐 Accessible di mana saja via GitHub Pages
+ <!-- TODO: Update username and repo name -->
+
+> Open Java learning materials built collaboratively by the Gosling Java Study Group. <!-- TODO: Replace with your description -->
 
 [Mulai Belajar](#gosling-java-study)
 
-![color](#1a1a2e)
+---
+
+### 📘 What you'll find here
+
+- ☕ **Java fundamentals** — syntax, OOP, collections
+- 🧠 **How Java works** — JVM, memory, compilation
+- 🧩 **Best practices** — clean code, patterns
+- 🤝 **Community-driven** — learn Git & PRs while studying Java
+
+---
+
+[📚 Start Learning](#/README)
+[🤝 Contribute](https://github.com/Gosling-Java-Study/Java-Materials/blob/main/CONTRIBUTING.md)
+
+![color](#2c3e50)
+<!-- TODO: Set your background color or image. -->
+<!-- ![color](#b3d9f8) -->
