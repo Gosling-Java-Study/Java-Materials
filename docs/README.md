@@ -1,86 +1,139 @@
-<!-- TODO: Update with your values. -->
-# Gosling Java Study
-> Starter template for a Markdown-based docs site
+# Welcome to Gosling Java Study! ☕
 
- <!-- TODO: Update repo links and change license type if needed. -->
-[![GitHub tag](https://img.shields.io/github/tag/Gosling-Java-Study/Java-Materials.svg)](https://GitHub.com/Gosling-Java-Study/Java-Materials/tags/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Gosling-Java-Study/Java-Materials/blob/master/README#license)
+Welcome to your comprehensive guide to learning Java programming. Whether you're just starting out or looking to deepen your expertise, this resource is designed to help you master Java step by step.
 
-[![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
+---
 
+## 🎯 What You'll Learn
 
-<!-- TODO: You can delete the About and Create a Docsify site sections if you create a new project from this template -->
+This site covers Java programming from fundamentals to advanced concepts:
 
-## About
+- **Java Basics** — Variables, data types, operators, control flow, and loops
+- **Object-Oriented Programming** — Classes, objects, inheritance, interfaces, and encapsulation
+- **Data Structures** — Arrays, ArrayList, HashMap, LinkedList, and more
+- **Exception Handling** — Try-catch blocks, throwing exceptions, and custom exceptions
+- **Advanced Topics** — Streams, lambda expressions, multithreading, design patterns, and file I/O
 
-This is a template for a simple but elegant docs site built on _Docsify_ which magically turns your markdown in your `docs` directory into a docs site. 
+Each topic includes clear explanations, working code examples, common pitfalls, and hands-on exercises to reinforce your learning.
 
-This is a statically-built site - just commit and push and your Github Pages site will re-deploy.
+---
 
-_Docsify.js_ runs as a _Single-Page Application_ on `index.html` - it relies on JavaScript to pull in content from markdown file, within the app shell. This gives a modern progressive web-app experience for instant page loads. But, this **not** SEO-friendly as crawlers don't like to or can't load JavaScript. So use a static site instead if you need to be found on search engines.
+## 📚 How to Use This Site
 
-If you want learn about _Docsify_ and how to customize a docs like this, follow this tutorial:
+### Navigation
 
-<div align="center">
-    <a href="https://michaelcurrin.github.io/docsify-js-tutorial/">
-        <img src="https://img.shields.io/badge/Teach_me-DocsifyJS_tutorial-blue" 
-            alt="DocsifyJS tutorial badge"
-            title="Go to tutorial">
-    </a>
-</div>
+Use the **sidebar** on the left to browse topics. Materials are organized by difficulty:
 
+1. Start with **Java Basics** if you're new to programming
+2. Move to **Object-Oriented Programming** once you're comfortable with the fundamentals
+3. Explore **Data Structures** and **Exception Handling** to build real-world skills
+4. Tackle **Advanced Topics** when you're ready for more complex concepts
 
-## Create a Docsify site
-> How to create your own docs site like this one
+### Learning Path
 
-Click the button below to create your own copy of this repo.
+Each topic page follows a consistent structure:
 
-<div align="center">
-    <a href="https://github.com/Gosling-Java-Study/Java-Materials/generate">
-        <img src="https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge" 
-            alt="Use this template"
-            title="Create repo from template">
-    </a>
-</div>
+- **Overview** — What you'll learn and why it matters
+- **Prerequisites** — What you should know before starting
+- **Concept Explanation** — Clear, detailed explanations with examples
+- **Syntax & Examples** — Working code you can run and experiment with
+- **Common Mistakes** — Learn what to avoid
+- **Practice Exercises** — Test your understanding with hands-on problems
+- **Next Steps** — What to learn after mastering the topic
 
-<br>
+### Tips for Success
 
-Then follow instructions in the original GitHub repo linked below. The `README.md` file covers how to set up docs site like this one.
+✅ **Follow the prerequisites** — Don't skip ahead if you're missing foundational knowledge
 
-<div align="center">
-    <a href="https://github.com/Gosling-Java-Study/Java-Materials">
-        <img src="https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-template&color=blue&style=for-the-badge&logo=github" 
-            alt="MichaelCurrin - docsify-js-template"
-            title="Go to template repo">
-    </a>
-</div>
+✅ **Run the code** — Type out examples yourself instead of just reading them
 
+✅ **Do the exercises** — Active practice is key to mastery
 
-## Preview
+✅ **Take notes** — Summarize concepts in your own words
 
-_TODO: Complete with your content - such as a screenshot of your app or command-line usage. You can also rename Preview to Sample._
+✅ **Build projects** — Apply what you learn to real-world problems
 
+---
 
-## Installation
+## 🚀 Getting Started
 
-_TODO: Add your instructions here or link to an installation.md page._
+### Complete Beginner?
 
+Start here:
+1. [Variables & Data Types](basics/variables.md)
+2. [Operators](basics/operators.md)
+3. [Control Flow](basics/control-flow.md)
+4. [Loops](basics/loops.md)
 
-## Usage
+### Have Some Experience?
 
-_TODO: Add your instructions here or link to a usage.md page._
+Jump to topics that interest you:
+- [Classes & Objects](oop/classes.md)
+- [ArrayList](data-structures/arraylist.md)
+- [Exception Handling](exceptions/try-catch.md)
 
+### Looking for Advanced Content?
 
-## Demo
+Explore:
+- [Streams & Lambda Expressions](advanced/streams.md)
+- [Multithreading](advanced/multithreading.md)
+- [Design Patterns](advanced/design-patterns.md)
 
-This section showcases some functionality of Docsify.
+---
 
-```bash
-echo "Hello, World"
-```
+## 💡 Interactive Features
 
-> Sample quote
+This site includes several interactive elements:
 
-?> Sample hint
+- **Collapsible Solutions** — Exercise answers are hidden by default so you can try solving problems first
+- **Syntax Highlighting** — Code examples are color-coded for readability
+- **Search** — Use the search bar to quickly find topics
+- **Edit on GitHub** — Found a typo? Click "Edit on GitHub" to suggest improvements
 
-!> Sample warning 
+---
+
+## 🤝 Community & Contributions
+
+This is a **collaborative learning resource** built by developers for developers.
+
+### Found Something Helpful?
+
+⭐ Star the [GitHub repository](https://github.com/Gosling-Java-Study/Java-Materials) to show your support!
+
+### Want to Contribute?
+
+We welcome contributions! If you'd like to:
+- Add new topics
+- Improve existing materials
+- Fix errors or typos
+- Suggest new features
+
+Check out our [Contributing Guidelines](https://github.com/Gosling-Java-Study/Java-Materials/blob/main/CONTRIBUTING.md) to get started.
+
+---
+
+## 📖 Additional Resources
+
+Looking for more Java learning materials?
+
+- [Official Java Documentation](https://docs.oracle.com/javase/tutorial/)
+- [Java API Reference](https://docs.oracle.com/en/java/javase/17/docs/api/)
+- [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/)
+
+---
+
+## 💬 Need Help?
+
+- **Have a question?** Open an [issue](https://github.com/Gosling-Java-Study/Java-Materials/issues) on GitHub
+- **Found a bug?** Report it in the issues section
+- **Want to discuss a topic?** Use GitHub Discussions
+
+---
+
+## 📜 License
+
+All materials are released under the MIT License. Feel free to use, share, and adapt them for your learning journey.
+
+---
+
+**Ready to start learning? Choose a topic from the sidebar and dive in!** 🚀
